@@ -1,1 +1,1 @@
-Describe the plan to support the community
+BitTorrent designs distributed technologies that scale efficiently, keep intelligence at the edge, and keep creators and consumers in control of their content and data. More than 170 million people use our products every month. Our protocols move as much as 40% of the world's Internet traffic on a daily basis.
