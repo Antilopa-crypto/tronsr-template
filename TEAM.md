@@ -1,3 +1,9 @@
-With 100 million active users around the world, BitTorrent owns two clients, BitTorrent and BitTorrent Now, the latter of which focuses on video/music. BitTorrent will continue to operate these clients from TRON’s San Francisco office, "providing strong support for TRON’s global business development and partnerships, with the vision to become the world's largest decentralized ecosystem."
+The BitTorrent team is comprised of some of the original custodians of the BitTorrent protocol and the brightest minds around decentralized p2p services.  With over 100 millions users worldwide, it takes a highly experienced and dedicated team to support the demands of such a large user base.  Some of the key members on the BitTorrent team include:
 
-In late July, BitTorrent was officially acquired by TRON with $140 million.
+Joe Joyce
+Director of Engineering
+San Francisco, CA
+
+Bommuraj Paramaraj
+Team Lead IT Operation & Hadoop Specialist
+San Francisco, CA
