@@ -1,1 +1,4 @@
-BitTorrent is a content distribution protocol developed by Bram Cohen. It uses an efficient software distribution system and peer-to-peer technology to enable users to share large files (such as movies or TV shows) and upload like a redistributed node. Different from other downloaders which only provide downloading service for the requesting user, BitTorrent works in another way: the distributor or the file holder sends the file to one user, who then forwards the file to other users. Files are shared among users until every user finishes downloading. In this way, BitTorrent can handle multiple requests for large files at the same time without occupying much bandwidth.
+Costs in server maintenance
+
+- before-upgrade : $(9763.42 2 + 562.18) month
+- after-upgrade : $(19526.84 2 + 562.18) month
